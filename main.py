@@ -41,4 +41,4 @@ async def magic_eightball(ctx, *, question):
     await ctx.send(response)
 
 client.run(
-    "MTE1MjM0OTAzNDcyMDI3MjQ3NQ.GUdDKM.OWcYlhqHSQodSSOB9UQeqzl6kWKUJhp2Y4ChCQ")
+    #TOKEN GOES HERE)
